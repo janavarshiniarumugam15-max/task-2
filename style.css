@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightslategrey;
+}
+.one
+{
+    height: auto;
+    width: 400px;
+    background-color: rgb(245, 220, 225);
+    border-radius: 20px;
+}
+.two{
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+    padding-top: 5px;
+    width: 350px;
+}
+.three{
+    padding: 5px;
+    margin: 5px;
+    padding-top: 5px;
+    padding-left: 30%;
+
+}
+
