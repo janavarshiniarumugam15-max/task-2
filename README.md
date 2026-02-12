@@ -1,1 +1,1 @@
-https://github.com/janavarshiniarumugam15-max/task-2.git
+https://janavarshiniarumugam15-max.github.io/task-2.git/
